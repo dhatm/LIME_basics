@@ -3,7 +3,7 @@ Explainable AI/ML with LIME: basic scripts to load various models either trained
 
 LIME stands for local interpretable model-agnostic explanations.  Another alternative is to use SHAP (SHapley Additive exPlanations).  Both methods make post-hoc explanations of superpixel contributions to classifier calls. 
 
-Note to remember: explainable is not the same thing as interpretable. Explainable refers to the ability to identify what contributed to a decision, even if the logic/reason is not transparent.  Interpretable refers to the ability to understand the cause, logic, or reason for a decision.  
+Note to remember: explainable is not the same thing as interpretable. Explainable refers to the ability to identify what contributed to a decision or result, even if the cause, logic, or reason is not transparent.  Interpretable refers to the ability to understand the cause, logic, or reason for a decision or result.  
 
 
 
