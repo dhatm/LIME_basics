@@ -1,5 +1,5 @@
 # LIME_basics
-Explainable AI/ML with LIME: basic scripts to load various models either trained yourself or loaded from the tensorflow/keras applications.
+Explainable AI/ML with LIME: basic scripts to load various models either trained yourself or loaded from tensorflow/keras applications.
 
 LIME stands for local interpretable model-agnostic explanations.  Another alternative is to use SHAP (SHapley Additive exPlanations).  Both methods make post-hoc explanations of superpixel contributions to classifier calls. 
 
