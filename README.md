@@ -8,12 +8,13 @@ Note to remember: explainable is not the same thing as interpretable. Explainabl
 
 
 ## notebooks
-1. explain_my_xception.ipynb -- loads a very light-weight mini-xception (not to be confused with inception) network I made to classify cat vs dog. 
+1. explain_my_xception_tf.ipynb -- loads a very light-weight mini-xception (not to be confused with inception) network I made to classify cat vs dog. Uses tensorflow.
 
-2. explain_inception.ipynb -- loads an inception network from keras and explains its classifications. 
+2. explain_resnet50_tf.ipynb -- loads a resnet50 network from keras and explains its classifications. Uses tensorflow.
 
-3. explain_resnet50.ipynb -- loads a resnet50 network from keras and explains its classifications. 
+3. explain_inception_tf.ipynb -- loads an inception network from keras and explains its classifications. Uses tensorflow.
 
+4. explain_inception_pytorch.ipynb -- loads an inception network from keras and explains its classifications. Uses pytorch.
 
 
 ## misc. links
