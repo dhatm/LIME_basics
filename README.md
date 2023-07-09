@@ -1,5 +1,5 @@
 # LIME_basics
-Explainable AI/ML with LIME: LIME stands for local interpretable model-agnostic explanations.  LIME is used to explain classifier predictions.  For image classifiers, LIME does this by perturbing superpixel chunks of the image and observing the resulting impact on the output classification.
+Explainable AI/ML with LIME: LIME stands for local interpretable model-agnostic explanations.  LIME is used to explain classifier predictions.  For image classifiers, LIME does this by perturbing superpixels (chunks of the image) and observing the resulting impact on the output classification.
 
 Another alternative is to use SHAP (SHapley Additive exPlanations), which also makes post-hoc (after the fact) explanations of superpixel contributions to classifier calls.
 
