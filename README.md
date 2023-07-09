@@ -23,3 +23,11 @@ Note to remember: explainable is not the same thing as interpretable. Explainabl
 3. [SHAP repo](https://github.com/slundberg/shap)
 
 
+## Status & Possible Future To-dos
+- [x] implemented and tweaked lime notebook examples
+- [x] added other examples: resnet50, basic self-made CNN
+- [x] identified small differences with tensorflow and pytorch inception results (probabilities and explanation heatmap range) 
+- [ ] further explore pytorch oddities -- prediction results (independent of LIME) & heatmap range
+- [ ] apply to & explore more models (ViTs etc.)
+
+
