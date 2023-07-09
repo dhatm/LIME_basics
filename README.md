@@ -1,7 +1,11 @@
 # LIME_basics
-Explainable AI/ML with LIME: basic scripts to load various models either trained yourself or loaded from tensorflow/keras applications.
+Explainable AI/ML with LIME: LIME stands for local interpretable model-agnostic explanations.  LIME is used to explain classifier predictions.  For image classifiers, LIME does this by perturbing superpixel chunks of the image and observing the resulting impact on the output classification.
 
-LIME stands for local interpretable model-agnostic explanations.  Another alternative is to use SHAP (SHapley Additive exPlanations).  Both methods make post-hoc explanations of superpixel contributions to classifier calls. 
+Another alternative is to use SHAP (SHapley Additive exPlanations), which also makes post-hoc (after the fact) explanations of superpixel contributions to classifier calls.
+
+
+This repo contains basic scripts and examples to load various models either trained yourself or loaded from tensorflow/keras applications.
+
 
 Note to remember: explainable is not the same thing as interpretable. Explainable refers to the ability to identify what contributed to a decision or result, even if the cause, logic, or reason is not transparent.  Interpretable refers to the ability to understand the cause, logic, or reason for a decision or result.  
 
